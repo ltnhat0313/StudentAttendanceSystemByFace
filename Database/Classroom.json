@@ -1,0 +1,509 @@
+[
+  {
+    "model": "main.classroom",
+    "pk": 1,
+    "fields": {
+      "name": "Xác xuất thống kê",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 1,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2949769422"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 2,
+    "fields": {
+      "name": "Toán rời rạc",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 2,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2949769422"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 3,
+    "fields": {
+      "name": "Ngôn ngữ lập trình C",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 3,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2949769422"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 4,
+    "fields": {
+      "name": "Kỹ thuật lập trình",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 4,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2949769422"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 5,
+    "fields": {
+      "name": "Lập trình hướng đối tượng",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 5,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2949769422"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 6,
+    "fields": {
+      "name": "Cơ sở dữ liệu và quản trị cơ sở dữ liệu",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 6,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2949769422"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 7,
+    "fields": {
+      "name": "Cấu trúc dữ liệu và giải thuật",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 7,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2949769422"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 8,
+    "fields": {
+      "name": "Cơ sở dữ liệu nâng cao",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 1,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2013497810"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 9,
+    "fields": {
+      "name": "Lập trình ứng dụng với Java",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 2,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2013497810"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 10,
+    "fields": {
+      "name": "Kiến trúc và hệ điều hành máy tính",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 3,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2013497810"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 11,
+    "fields": {
+      "name": "Bảo mật thông tin",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 4,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2013497810"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 12,
+    "fields": {
+      "name": "Công nghệ phần mềm",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 5,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2013497810"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 13,
+    "fields": {
+      "name": "Lập trình mạng máy tính",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 6,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2013497810"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 14,
+    "fields": {
+      "name": "Lập trình trên môi trường Windows",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 7,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2013497810"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 15,
+    "fields": {
+      "name": "Lập trình trên thiết bị di động",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 1,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2158643935"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 16,
+    "fields": {
+      "name": "Lập trình Web",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 2,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2158643935"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 17,
+    "fields": {
+      "name": "Mạng máy tính",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 3,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2158643935"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 18,
+    "fields": {
+      "name": "Phân tích thiết kế hệ thống",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 4,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2158643935"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 19,
+    "fields": {
+      "name": "Quản lý dự án công nghệ thông tin ",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 5,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2158643935"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 20,
+    "fields": {
+      "name": "Trí tuệ nhân tạo",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 6,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2158643935"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 21,
+    "fields": {
+      "name": "Thực hành an toàn máy chủ Windows",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 7,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2158643935"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 22,
+    "fields": {
+      "name": "Thực hành bảo mật thông tin",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 1,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2258464745"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 23,
+    "fields": {
+      "name": "Thực hành cấu trúc dữ liệu và giải thuật",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 2,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2258464745"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 24,
+    "fields": {
+      "name": "Thực hành cơ sở dữ liệu",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 3,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2258464745"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 25,
+    "fields": {
+      "name": "Thực hành hệ điều hành",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 4,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2258464745"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 26,
+    "fields": {
+      "name": "Thực hành kiến trúc máy tính",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 5,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2258464745"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 27,
+    "fields": {
+      "name": "Thực hành ngôn ngữ lập trình C",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 6,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2258464745"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 28,
+    "fields": {
+      "name": "Thực hành kỹ thuật lập trình",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 7,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2258464745"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 29,
+    "fields": {
+      "name": "Thực hành lập trình hướng đối tượng",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 1,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2322385418"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 30,
+    "fields": {
+      "name": "Thực hành lập trình mạng máy tính",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 2,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2322385418"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 31,
+    "fields": {
+      "name": "Thực hành lập trình trên môi trường Windows",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 3,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2322385418"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 32,
+    "fields": {
+      "name": "Thực hành lập trình Web",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 4,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2322385418"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 33,
+    "fields": {
+      "name": "Thực hành lý thuyết đồ thị",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 5,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2322385418"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 34,
+    "fields": {
+      "name": "Thực hành mạng máy tính",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 6,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2322385418"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 35,
+    "fields": {
+      "name": "Thực hành phân tích thiết kế hệ thống",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 7,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2322385418"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 36,
+    "fields": {
+      "name": "Thực hành phân tích thiết kế theo hướng đối tượng",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 1,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2351521532"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 37,
+    "fields": {
+      "name": "Thực hành lập trình ứng dụng với Java",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 2,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2351521532"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 38,
+    "fields": {
+      "name": "Thực hành quản trị cơ sở dữ liệu",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 3,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2351521532"
+    }
+  },
+  {
+    "model": "main.classroom",
+    "pk": 39,
+    "fields": {
+      "name": "Đồ án cơ sở ngành Công nghệ thông tin",
+      "begin_date": "2026-08-21",
+      "end_date": "2026-12-31",
+      "day_of_week_begin": 4,
+      "begin_time": "07:30:00.000000",
+      "end_time": "11:30:00.000000",
+      "id_lecturer": "2351521532"
+    }
+  }
+]

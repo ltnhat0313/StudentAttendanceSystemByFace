@@ -1,0 +1,250 @@
+[
+  {
+    "model": "main.staffrole",
+    "pk": 1,
+    "fields": {
+      "staff": "admin",
+      "role": 1
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 2,
+    "fields": {
+      "staff": "1250767097",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 3,
+    "fields": {
+      "staff": "1304868666",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 4,
+    "fields": {
+      "staff": "1309012404",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 5,
+    "fields": {
+      "staff": "1371783591",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 6,
+    "fields": {
+      "staff": "1406532601",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 7,
+    "fields": {
+      "staff": "1421837284",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 8,
+    "fields": {
+      "staff": "1450539609",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 9,
+    "fields": {
+      "staff": "1590670504",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 10,
+    "fields": {
+      "staff": "1726973900",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 11,
+    "fields": {
+      "staff": "1079440959",
+      "role": 2
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 12,
+    "fields": {
+      "staff": "2013497810",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 13,
+    "fields": {
+      "staff": "2158643935",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 14,
+    "fields": {
+      "staff": "2258464745",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 15,
+    "fields": {
+      "staff": "2322385418",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 16,
+    "fields": {
+      "staff": "2351521532",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 17,
+    "fields": {
+      "staff": "2357175379",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 18,
+    "fields": {
+      "staff": "2378035512",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 19,
+    "fields": {
+      "staff": "2446003221",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 20,
+    "fields": {
+      "staff": "2489601811",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 21,
+    "fields": {
+      "staff": "2516956384",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 22,
+    "fields": {
+      "staff": "2556948194",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 23,
+    "fields": {
+      "staff": "2651766739",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 24,
+    "fields": {
+      "staff": "2734714914",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 25,
+    "fields": {
+      "staff": "2836954544",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 26,
+    "fields": {
+      "staff": "2851022109",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 27,
+    "fields": {
+      "staff": "2908942576",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 28,
+    "fields": {
+      "staff": "2917627742",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 29,
+    "fields": {
+      "staff": "2918594346",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 30,
+    "fields": {
+      "staff": "2924610653",
+      "role": 3
+    }
+  },
+  {
+    "model": "main.staffrole",
+    "pk": 31,
+    "fields": {
+      "staff": "2949769422",
+      "role": 3
+    }
+  }
+]

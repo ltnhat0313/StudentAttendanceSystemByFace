@@ -1,0 +1,11 @@
+[
+  {
+    "model": "main.blogpost",
+    "pk": 1,
+    "fields": {
+      "title": "SINH VIÊN THỰC HIỆN ĐÁNH GIÁ RÈN LUYỆN HỌC KỲ 1 NĂM HỌC 2026-2027",
+      "body": "<p>- Sau khi đăng nhập t&agrave;i khoản, Sinh vi&ecirc;n xem th&ocirc;ng b&aacute;o thời gian ĐGRL sinh vi&ecirc;n v&agrave; chọn mục Đ&aacute;nh gi&aacute; r&egrave;n luyện/ Điểm c&aacute; nh&acirc;n/chọn đ&uacute;ng học kỳ 1 năm học 2026-2027 để đ&aacute;nh gi&aacute;.</p>\r\n\r\n<p>- Lưu &yacute;: V&igrave; thời gian ĐGRL kh&ocirc;ng c&oacute; kết quả học tập học kỳ n&ecirc;n SV sẽ kh&ocirc;ng chấm điểm tại mục điểm học tập được. Sau khi c&oacute; kết quả học tập học kỳ, Khoa/ Viện sẽ cập nhật v&agrave; cộng điểm tương ứng theo khung điểm.</p>",
+      "type": "SV"
+    }
+  }
+]

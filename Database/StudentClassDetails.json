@@ -1,0 +1,5970 @@
+[
+  {
+    "model": "main.studentclassdetails",
+    "pk": 22,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 23,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 24,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 25,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 26,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 27,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 28,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 29,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 30,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 32,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 33,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 34,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 35,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 36,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 37,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 38,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 39,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 40,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 41,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 42,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 43,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 44,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 45,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 46,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 47,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 48,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 49,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 50,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 52,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 53,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 54,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 55,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 56,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 57,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 58,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 59,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 60,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 61,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 62,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 63,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 64,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 65,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 66,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 67,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 68,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 69,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 70,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 72,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 73,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 74,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 75,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 76,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 77,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 78,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 79,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 80,
+    "fields": {
+      "id_classroom": 4,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 81,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 82,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 83,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 84,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 85,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 86,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 87,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 88,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 89,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 90,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 92,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 93,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 94,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 95,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 96,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 97,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 98,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 99,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 100,
+    "fields": {
+      "id_classroom": 5,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 101,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 102,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 103,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 104,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 105,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 106,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 107,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 108,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 109,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 110,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 112,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 113,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 114,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 115,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 116,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 117,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 118,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 119,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 120,
+    "fields": {
+      "id_classroom": 6,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 121,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 122,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 123,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 124,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 125,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 126,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 127,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 128,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 129,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 130,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 132,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 133,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 134,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 135,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 136,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 137,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 138,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 139,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 140,
+    "fields": {
+      "id_classroom": 7,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 161,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 162,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 163,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 164,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 165,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 166,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 167,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 168,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 169,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 170,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 172,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 173,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 174,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 175,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 176,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 177,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 178,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 179,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 180,
+    "fields": {
+      "id_classroom": 9,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 181,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 182,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 183,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 184,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 185,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 186,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 187,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 188,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 189,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 190,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 192,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 193,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 194,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 195,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 196,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 197,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 198,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 199,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 200,
+    "fields": {
+      "id_classroom": 10,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 201,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 202,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 203,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 204,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 205,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 206,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 207,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 208,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 209,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 210,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 212,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 213,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 214,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 215,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 216,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 217,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 218,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 219,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 220,
+    "fields": {
+      "id_classroom": 11,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 221,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 222,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 223,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 224,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 225,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 226,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 227,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 228,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 229,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 230,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 232,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 233,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 234,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 235,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 236,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 237,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 238,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 239,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 240,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 241,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 242,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 243,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 244,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 245,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 246,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 247,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 248,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 249,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 250,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 252,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 253,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 254,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 255,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 256,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 257,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 258,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 259,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 260,
+    "fields": {
+      "id_classroom": 13,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 261,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 262,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 263,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 264,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 265,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 266,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 267,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 268,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 269,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 270,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 272,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 273,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 274,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 275,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 276,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 277,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 278,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 279,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 280,
+    "fields": {
+      "id_classroom": 14,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 281,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 282,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 283,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 284,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 285,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 286,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 287,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 288,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 289,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 290,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 292,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 293,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 294,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 295,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 296,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 297,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 298,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 299,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 300,
+    "fields": {
+      "id_classroom": 15,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 301,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 302,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 303,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 304,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 305,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 306,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 307,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 308,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 309,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 310,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 312,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 313,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 314,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 315,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 316,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 317,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 318,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 319,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 320,
+    "fields": {
+      "id_classroom": 16,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 321,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 322,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 323,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 324,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 325,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 326,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 327,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 328,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 329,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 330,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 332,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 333,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 334,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 335,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 336,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 337,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 338,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 339,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 340,
+    "fields": {
+      "id_classroom": 17,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 341,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 342,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 343,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 344,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 345,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 346,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 347,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 348,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 349,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 350,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 352,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 353,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 354,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 355,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 356,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 357,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 358,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 359,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 360,
+    "fields": {
+      "id_classroom": 18,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 361,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 362,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 363,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 364,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 365,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 366,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 367,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 368,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 369,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 370,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 372,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 373,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 374,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 375,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 376,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 377,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 378,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 379,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 380,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 381,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 382,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 383,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 384,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 385,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 386,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 387,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 388,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 389,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 390,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 392,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 393,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 394,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 395,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 396,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 397,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 398,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 399,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 400,
+    "fields": {
+      "id_classroom": 20,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 401,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 402,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 403,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 404,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 405,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 406,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 407,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 408,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 409,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 410,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 412,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 413,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 414,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 415,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 416,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 417,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 418,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 419,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 420,
+    "fields": {
+      "id_classroom": 21,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 421,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 422,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 423,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 424,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 425,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 426,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 427,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 428,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 429,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 430,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 432,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 433,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 434,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 435,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 436,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 437,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 438,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 439,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 440,
+    "fields": {
+      "id_classroom": 22,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 441,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 442,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 443,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 444,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 445,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 446,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 447,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 448,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 449,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 450,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 452,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 453,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 454,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 455,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 456,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 457,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 458,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 459,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 460,
+    "fields": {
+      "id_classroom": 23,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 461,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 462,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 463,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 464,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 465,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 466,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 467,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 468,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 469,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 470,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 472,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 473,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 474,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 475,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 476,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 477,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 478,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 479,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 480,
+    "fields": {
+      "id_classroom": 24,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 481,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 482,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 483,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 484,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 485,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 486,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 487,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 488,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 489,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 490,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 492,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 493,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 494,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 495,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 496,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 497,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 498,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 499,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 500,
+    "fields": {
+      "id_classroom": 25,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 501,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 502,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 503,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 504,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 505,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 506,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 507,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 508,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 509,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 510,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 512,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 513,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 514,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 515,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 516,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 517,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 518,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 519,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 520,
+    "fields": {
+      "id_classroom": 26,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 521,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 522,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 523,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 524,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 525,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 526,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 527,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 528,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 529,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 530,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 532,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 533,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 534,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 535,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 536,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 537,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 538,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 539,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 540,
+    "fields": {
+      "id_classroom": 27,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 541,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 542,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 543,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 544,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 545,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 546,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 547,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 548,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 549,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 550,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 552,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 553,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 554,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 555,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 556,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 557,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 558,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 559,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 560,
+    "fields": {
+      "id_classroom": 28,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 561,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 562,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 563,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 564,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 565,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 566,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 567,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 568,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 569,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 570,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 572,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 573,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 574,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 575,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 576,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 577,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 578,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 579,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 580,
+    "fields": {
+      "id_classroom": 29,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 581,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 582,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 583,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 584,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 585,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 586,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 587,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 588,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 589,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 590,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 592,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 593,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 594,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 595,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 596,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 597,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 598,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 599,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 600,
+    "fields": {
+      "id_classroom": 30,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 601,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 602,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 603,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 604,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 605,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 606,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 607,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 608,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 609,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 610,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 612,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 613,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 614,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 615,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 616,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 617,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 618,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 619,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 620,
+    "fields": {
+      "id_classroom": 31,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 621,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 622,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 623,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 624,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 625,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 626,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 627,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 628,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 629,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 630,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 632,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 633,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 634,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 635,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 636,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 637,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 638,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 639,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 640,
+    "fields": {
+      "id_classroom": 32,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 641,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 642,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 643,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 644,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 645,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 646,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 647,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 648,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 649,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 650,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 652,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 653,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 654,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 655,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 656,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 657,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 658,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 659,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 660,
+    "fields": {
+      "id_classroom": 33,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 661,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 662,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 663,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 664,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 665,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 666,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 667,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 668,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 669,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 670,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 672,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 673,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 674,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 675,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 676,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 677,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 678,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 679,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 680,
+    "fields": {
+      "id_classroom": 34,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 681,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 682,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 683,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 684,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 685,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 686,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 687,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 688,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 689,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 690,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 692,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 693,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 694,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 695,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 696,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 697,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 698,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 699,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 700,
+    "fields": {
+      "id_classroom": 35,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 701,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 702,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 703,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 704,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 705,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 706,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 707,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 708,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 709,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 710,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 712,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 713,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 714,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 715,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 716,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 717,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 718,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 719,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 720,
+    "fields": {
+      "id_classroom": 36,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 903,
+    "fields": {
+      "id_classroom": 2,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 985,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 986,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 987,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 988,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 989,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 990,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 991,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 992,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 993,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 994,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 996,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 997,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 998,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 999,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1000,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1001,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1002,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1003,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1004,
+    "fields": {
+      "id_classroom": 39,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1066,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1067,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1068,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1069,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1070,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1071,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1072,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1073,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1074,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1075,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1077,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1078,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1079,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1080,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1081,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1082,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1083,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1084,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1085,
+    "fields": {
+      "id_classroom": 8,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1086,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1087,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1088,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1089,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1090,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1091,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1092,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1093,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1094,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1095,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1097,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1098,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1099,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1100,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1101,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1102,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1103,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1104,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1105,
+    "fields": {
+      "id_classroom": 37,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1106,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1107,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1108,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1109,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1110,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1111,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1112,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1113,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1114,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1115,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1117,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1118,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1119,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1120,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1121,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1122,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1123,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1124,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1125,
+    "fields": {
+      "id_classroom": 38,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1126,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011003929"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1127,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011010091"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1128,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011010708"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1129,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011012069"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1130,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011013080"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1131,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011016789"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1132,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011017464"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1133,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011023176"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1134,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011025466"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1135,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011030907"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1137,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011040670"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1138,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011040922"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1139,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011041733"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1140,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011045828"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1141,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011053559"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1142,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011055873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1143,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011056233"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1144,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011060848"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1145,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011066647"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1146,
+    "fields": {
+      "id_classroom": 1,
+      "id_student": "2011060842"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1147,
+    "fields": {
+      "id_classroom": 12,
+      "id_student": "2011060842"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1148,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011060842"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1149,
+    "fields": {
+      "id_classroom": 19,
+      "id_student": "2011063873"
+    }
+  },
+  {
+    "model": "main.studentclassdetails",
+    "pk": 1150,
+    "fields": {
+      "id_classroom": 3,
+      "id_student": "2011063873"
+    }
+  }
+]
