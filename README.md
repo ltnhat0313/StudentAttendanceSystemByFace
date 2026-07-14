@@ -39,13 +39,15 @@ Tuy thuoc vao he dieu hanh va loai terminal ban dang su dung, chay mot trong cac
 Sau khi kich hoat thanh cong, ban se thay ky tu (venv) xuat hien o dau dong lenh cua terminal.
 
 ### Buoc 4: Cai dat cac thu vien (Dependencies)
-Chay lenh sau de tai va cai dat cac thu vien can thiet tu file requirements:
+Luu y ve file requirements: Du an co hai phien ban la requirements_v3.7.txt (danh cho Python 3.7) va requirements_v3.10.txt (danh cho Python 3.10). Vi moi truong ao duoc tao o Buoc 2 se su dung phien ban Python hien tai tren may ban (thuong la Python 3.10), ban nen su dung file requirements_v3.10.txt vi day la phien ban da duoc toi uu hoa va sua loi tuong thich thu vien de chay on dinh.
+
+Chay lenh sau de cai dat:
 
 ```bash
 pip install -r requirements_v3.10.txt
 ```
 
-Luu y: Qua trinh nay se tai cac thu vien lon nhu TensorFlow, PyTorch va OpenCV nen se mat tu 5 den 10 phut tuy vao toc do internet cua ban.
+Luu y ve thoi gian: Qua trinh nay se tai cac thu vien lon nhu TensorFlow, PyTorch va OpenCV nen se mat tu 5 den 10 phut tuy vao toc do internet cua ban.
 
 ### Buoc 5: Dong bo va khoi tao co so du lieu (Database Migration)
 Chay lenh sau de Django tu dong tao file db.sqlite3 va tao cau truc bang du lieu:
