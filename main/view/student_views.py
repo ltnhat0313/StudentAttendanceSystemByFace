@@ -166,8 +166,8 @@ def student_checkpoint_view(request):
             'total_attendance_percentage': total_attendance_percentage,
         })
 
-        paginator = Paginator(attendance_scores, classroom_per_page)
-        page = paginator.get_page(page_number)
+    paginator = Paginator(attendance_scores, classroom_per_page)
+    page = paginator.get_page(page_number)
 
     context = {
         'attendance_scores': page,
